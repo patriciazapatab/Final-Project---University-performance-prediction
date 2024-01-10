@@ -119,6 +119,3 @@ This project marks the initial phase of an ongoing collaboration with the Univer
 - Explore Alternative Targets: Extend predictive focus to other subjects, student dropout likelihood, or repeated subject instances. Utilize 1st-semester grades along with pre-enrollment data based on specific objectives.
 
 - Qualitative Validation: Listen to students and teachers for invaluable insights, ensuring proposed actions benefit everyone involved.
-
-
-# N
