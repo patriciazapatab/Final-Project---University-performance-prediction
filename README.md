@@ -62,7 +62,8 @@ All the code is available in the following **jupyter notebooks**:
 
 During the exploration, the data cleansing and the merging process some observations were made that could impact project results:
 
-- Students that coursed the double degree of Automation and Electric engineering were matriculated in the 3 degrees the same year (Electric, Automation and Double degree). Only the double degree matriculation has been kept.
+- Students that coursed the double degree of Automation and Electric engineering were matriculated in the 3 degrees the same year (Electric, Automation and Double degree). Only the double degree matriculation has been kept. Most cases where solved by leaving only the double degree matriculation.
+- 
 - Some observations of 2019 were lost due to the impossibility to merge the pre-enrollment data with the corresponding student grades because of an oversight during the anonymization process.
 
 For project purposes the following decisions were taken: 
